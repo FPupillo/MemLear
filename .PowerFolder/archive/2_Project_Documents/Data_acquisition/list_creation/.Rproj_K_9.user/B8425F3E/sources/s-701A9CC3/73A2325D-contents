@@ -1,0 +1,44 @@
+#------------------------------------------------------------------------------#
+#
+# script to check that all images of the lists are in the folders
+#
+# created:  "Mon Dec 20 21:17:19 2021"
+#
+#------------------------------------------------------------------------------#
+rm(list=ls())
+
+# retrieve the lists
+cd<-getwd()
+
+setwd("lists")
+
+files<-list.files()
+
+listN<-4
+
+# counter for the objects
+count<-1
+
+# file that stores the images in case they are not found
+images<-vector()
+for (n in 1:4){
+  encod<-read.csv(paste0("task_list_", n, ".csv"))
+  
+  ret1<-read.csv(paste0("ImagesforRecog", n, "_1.csv"))
+  ret2<-read.csv(paste0("ImagesforRecog", n, "_2.csv"))
+  
+  # bind the two
+  ret<-rbind(ret1, ret2)
+  
+  # check
+  check<-NA
+  for (j in 1:nrow(encod)){
+    check[j]<-sum(ret$images== encod$img[j]) 
+    
+  }
+  
+  assign(paste0("check", n), check)
+  
+}
+
+

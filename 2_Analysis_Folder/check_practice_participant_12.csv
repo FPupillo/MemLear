@@ -1,0 +1,13 @@
+"trial_cond","character","left_categ","centleft_categ","centright_categ","right_categ","corr_ans","img","corr_ans_num","pract_resp.keys","resp_cat","pract_resp.corr","cumAcc"
+1,"stimuli/m_red.jpg","stimuli/Food.png","stimuli/Gamestoy & entertainment.png","stimuli/Vehicle.png","stimuli/Clothing.png","Food","stimuli/objects/chocolatecroissant.jpg",1,1,"stimuli/Food.png",1,1
+0,"stimuli/m_red.jpg","stimuli/Clothing.png","stimuli/Food.png","stimuli/Gamestoy & entertainment.png","stimuli/Vehicle.png","Vehicle","stimuli/objects/tricycle.jpg",4,3,"stimuli/Gamestoy & entertainment.png",0,0.5
+0,"stimuli/m_blue.jpg","stimuli/Vehicle.png","stimuli/Clothing.png","stimuli/Gamestoy & entertainment.png","stimuli/Food.png","Food","stimuli/objects/cracker02.jpg",4,4,"stimuli/Food.png",1,0.666666666666667
+1,"stimuli/m_red.jpg","stimuli/Clothing.png","stimuli/Vehicle.png","stimuli/Gamestoy & entertainment.png","stimuli/Food.png","Food","stimuli/objects/hotdog.jpg",4,4,"stimuli/Food.png",1,0.75
+1,"stimuli/m_red.jpg","stimuli/Clothing.png","stimuli/Gamestoy & entertainment.png","stimuli/Food.png","stimuli/Vehicle.png","Food","stimuli/objects/kiwi03.jpg",3,3,"stimuli/Food.png",1,0.8
+1,"stimuli/m_red.jpg","stimuli/Vehicle.png","stimuli/Gamestoy & entertainment.png","stimuli/Food.png","stimuli/Clothing.png","Food","stimuli/objects/greenolive.jpg",3,3,"stimuli/Food.png",1,0.833333333333333
+1,"stimuli/m_blue.jpg","stimuli/Food.png","stimuli/Clothing.png","stimuli/Vehicle.png","stimuli/Gamestoy & entertainment.png","Gamestoy & entertainment","stimuli/objects/paperairplane.jpg",4,1,"stimuli/Food.png",0,0.714285714285714
+1,"stimuli/m_blue.jpg","stimuli/Vehicle.png","stimuli/Gamestoy & entertainment.png","stimuli/Food.png","stimuli/Clothing.png","Gamestoy & entertainment","stimuli/objects/toyanimal02.jpg",2,4,"stimuli/Clothing.png",0,0.625
+1,"stimuli/m_red.jpg","stimuli/Vehicle.png","stimuli/Clothing.png","stimuli/Gamestoy & entertainment.png","stimuli/Food.png","Food","stimuli/objects/casabamelon.jpg",4,4,"stimuli/Food.png",1,0.666666666666667
+1,"stimuli/m_blue.jpg","stimuli/Gamestoy & entertainment.png","stimuli/Clothing.png","stimuli/Vehicle.png","stimuli/Food.png","Gamestoy & entertainment","stimuli/objects/paddleball.jpg",1,1,"stimuli/Gamestoy & entertainment.png",1,0.7
+1,"stimuli/m_blue.jpg","stimuli/Gamestoy & entertainment.png","stimuli/Clothing.png","stimuli/Food.png","stimuli/Vehicle.png","Gamestoy & entertainment","stimuli/objects/rockinghorse.jpg",1,1,"stimuli/Gamestoy & entertainment.png",1,0.727272727272727
+1,"stimuli/m_red.jpg","stimuli/Vehicle.png","stimuli/Food.png","stimuli/Clothing.png","stimuli/Gamestoy & entertainment.png","Food","stimuli/objects/arugula.jpg",2,2,"stimuli/Food.png",1,0.75

@@ -1,0 +1,13 @@
+#------------------------------------------------------------------------------#
+#
+# script to check that the encoding images are are in the recognition lists
+#
+# created:  "Mon Dec 20 21:17:19 2021"
+#
+#------------------------------------------------------------------------------#
+rm(list=ls())
+
+# retrieve the lists
+cd<-getwd()
+
+setwd()

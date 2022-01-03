@@ -1,0 +1,47 @@
+1.0620 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+1.7494 	WARNING 	Import Error: No module named 'psychtoolbox'. Using event module for keyboard component.
+6.7140 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f6ab418eb20>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f6ab4158580>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1680, 1050]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7140 	EXP 	window1: recordFrameIntervals = False
+6.8804 	EXP 	window1: recordFrameIntervals = True
+7.2981 	EXP 	window1: recordFrameIntervals = False
+7.3818 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.3843 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1.7, 1. ]), texRes=128, units='height', win=Window(...))
+7.3880 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.4012 	EXP 	text_2: autoDraw = True
+8.1003 	DATA 	Keypress: space
+8.1088 	EXP 	Imported illustrations.xlsx as conditions, 7 conditions, 2 params
+8.1091 	EXP 	Created sequence: sequential, trialTypes=7, nReps=1, seed=None
+8.1094 	EXP 	New trial (rep=0, index=0): OrderedDict([('images', 'slide 1.jpg'), ('keys', "'space’")])
+8.1494 	EXP 	text_2: autoDraw = False
+8.1494 	EXP 	image: image = 'slide 1.jpg'
+8.1494 	EXP 	image: autoDraw = True
+8.8355 	DATA 	Keypress: space
+8.8363 	EXP 	New trial (rep=0, index=1): OrderedDict([('images', 'slide 2.jpg'), ('keys', "'l’")])
+8.8739 	EXP 	image: autoDraw = False
+8.8739 	EXP 	image: image = 'slide 2.jpg'
+8.8739 	EXP 	image: autoDraw = True
+11.4141 	DATA 	Keypress: t
+11.8532 	DATA 	Keypress: g
+12.2001 	DATA 	Keypress: b
+12.6237 	DATA 	Keypress: b
+12.9899 	DATA 	Keypress: j
+13.3402 	DATA 	Keypress: g
+13.4148 	DATA 	Keypress: f
+13.7623 	DATA 	Keypress: s
+14.3167 	DATA 	Keypress: d
+14.3173 	EXP 	New trial (rep=0, index=2): OrderedDict([('images', 'slide 3.jpg'), ('keys', "'l’")])
+14.3530 	EXP 	image: autoDraw = False
+14.3530 	EXP 	image: image = 'slide 3.jpg'
+14.3530 	EXP 	image: autoDraw = True
+15.2174 	DATA 	Keypress: l
+15.2180 	EXP 	New trial (rep=0, index=3): OrderedDict([('images', 'slide 4.jpg'), ('keys', "'l’")])
+15.2574 	EXP 	image: autoDraw = False
+15.2574 	EXP 	image: image = 'slide 4.jpg'
+15.2574 	EXP 	image: autoDraw = True
+16.5616 	DATA 	Keypress: d
+16.5621 	EXP 	New trial (rep=0, index=4): OrderedDict([('images', 'slide 5.jpg'), ('keys', "'d’")])
+16.6005 	EXP 	image: autoDraw = False
+16.6005 	EXP 	image: image = 'slide 5.jpg'
+16.6005 	EXP 	image: autoDraw = True
+20.4258 	DATA 	Keypress: escape
+20.4320 	EXP 	window1: mouseVisible = True

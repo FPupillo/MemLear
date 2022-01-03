@@ -1,0 +1,13 @@
+changelog
+
+-22/11/2021
+1.detected a problem with the the 2.main_task.R: some loops were carried out with the letter "i" instead of "l", resulting with all the lists being basically the same. 
+2.created the codebook. 
+3. finished the 1st part of the experiment. 
+
+-23/11/2021
+2. Pavlovia does not like "image" as a name of a variable. Therefore, I renamed the "image" variable as "img" in the encoding lists
+
+06/12/2021
+1. Created scripts for analysing the data. Checked the number of images by category in the encoding and recognition list. 
+2. Found a mistake in the nBack task- where the PM words were deleted, there were probs for the word as there were hit, but not hit in the list. Fixed

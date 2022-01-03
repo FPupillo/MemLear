@@ -1,0 +1,26 @@
+{
+    "id": "999DD989",
+    "path": "~/PowerFolders/MemLear/2_Analysis_Folder/helper_functions/analyzeRecog.R",
+    "project_path": "helper_functions/analyzeRecog.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1640026546059.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,14",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1638788582,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1638788582,
+    "read_only": false,
+    "read_only_alternatives": []
+}

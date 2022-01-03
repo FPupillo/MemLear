@@ -1,0 +1,11 @@
+instructions_loop.thisRepN,instructions_loop.thisTrialN,instructions_loop.thisN,instructions_loop.thisIndex,instructions_loop.ran,text1,text2,text3,participant,Expra Code,date,expName,psychopyVersion,OS,frameRate,recog_resp.keys,recog_resp.rt,conf_resp.keys,conf_resp.rt,recog_loop.thisRepN,recog_loop.thisTrialN,recog_loop.thisN,recog_loop.thisIndex,recog_loop.ran,images,type,corr_ans,order
+0,0,0,0,1,Welcome to the last phase of this experiment!,.,Please press the space bar to continue,993,589784,2021-12-02_13h20.00.673,MemLear_ses-01_part-02_label-phase2,2020.1.3,Linux x86_64,60,,,,,,,,,,,,,
+0,1,1,1,1,.,"In this phase, you will see some objects. 
+
+For each object, you should indicate whether you have seen it before during the experiment.
+
+Press LEFT ARROW for YES
+Press RIGHT ARROW for NO
+
+",Please press the space bar to continue ,993,589784,2021-12-02_13h20.00.673,MemLear_ses-01_part-02_label-phase2,2020.1.3,Linux x86_64,60,,,,,,,,,,,,,
+,,,,,,,,993,589784,2021-12-02_13h20.00.673,MemLear_ses-01_part-02_label-phase2,2020.1.3,Linux x86_64,60,left,6.6227,3,60.8584,0,0,0,43,1,stimuli/objects/lightbulb01.jpg,old,left,44
