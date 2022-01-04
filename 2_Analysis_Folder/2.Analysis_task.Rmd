@@ -1,0 +1,95 @@
+---
+title: "Analyse data task"
+author: "Francesco Pupillo"
+date: "1/3/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)# select comes from this
+library(ggplot2)
+library(gridExtra)
+library(gplots)
+source("helper_functions/cumAccbyCond.R")
+
+```
+
+
+```{r, message=FALSE, warning=FALSE}
+# get participants number
+setwd("clean_data")
+
+participants<-list.files()
+
+# loop through the files and check the practice trials
+# initialise an empty dataframe, with subject number, trialN, accuracy, cumacc
+taskAll<-data.frame(participant = vector(), trialN = vector(),trialNbychar=vector(), 
+                    condition = vector(), 
+                     type = vector(),  accuracy = vector(),
+                     cumAcc= vector(), cumAccbyCond = vector())
+
+for (p in participants){
+  
+  files<-list.files(p)
+  file<-read.csv(paste0(p, "/", substr(p, 5,6), "_encoding.csv"))
+  
+  # select only the task tasks
+  task<-file[is.na(file$trial_cond),]
+  
+  # create cumulative accuracy
+  task$cumAcc<-cumsum(task$task_response.corr) / seq_along(task$task_response.corr)
+  
+  # create cumulative accuracy by character
+  task<-cumAccbyCond(task)
+  
+  # create trialN
+  task$trialN<-seq(1:nrow(task))
+  
+  # subset
+  df<-select(task, participant,  trialN,trialNbychar, condition, type,  task_response.corr
+             ,cumAcc,cumAccbyCond )
+  
+  # rename accuracy
+  names(df)[6]<-"accuracy"
+  
+  # bind it
+  taskAll<-rbind(taskAll, df)
+  
+  }
+# 
+# # how many practice trials participants needed to finish?
+# practAll %>%
+#   group_by(participant) %>%
+#   tally()
+# 
+# # now plot
+# ggplot(practAll, aes(x = trialN, y = cumAcc)) +
+#   geom_line()+
+#   facet_wrap(.~participant)+
+#   theme_bw()+
+#   ggtitle("learning curve practice trials by participant")
+# 
+
+```
+
+### check that we have all the right number of trials by condition
+``` {r checks}
+taskAll %>%
+  group_by(participant, condition) %>%
+  tally()
+```
+
+
+### plot cum acc
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+# make condition a factor
+taskAll$condition<-as.factor(taskAll$condition)
+
+ggplot(taskAll, aes(x=trialN, y = cumAccbyCond, color=condition))+ geom_line()+
+  facet_wrap(.~participant)+
+  theme_bw()+
+  ggtitle("Cumulative Accuracy by Condition and Participant")
+
+```

@@ -1,0 +1,71 @@
+---
+title: "Analysis data pract"
+author: "Francesco Pupillo"
+date: "1/3/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)# select comes from this
+library(ggplot2)
+library(gridExtra)
+library(gplots)
+
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# get participants number
+setwd("clean_data")
+
+participants<-list.files()
+
+# loop through the files and check the practice trials
+# initialise an empty dataframe, with subject number, trialN, accuracy, cumacc
+practAll<-data.frame(participant = vector(), trialN = vector(), trial_cond = vector(),  accuracy = vector(),
+                     cumAcc= vector())
+
+for (p in participants){
+  
+  files<-list.files(p)
+  file<-read.csv(paste0(p, "/", substr(p, 5,6), "_encoding.csv"))
+  
+  # select only the practice tasks
+  pract<-file[!is.na(file$trial_cond),]
+  
+  # create cumulative accuracy
+  pract$cumAcc<-cumsum(pract$pract_resp.corr) / seq_along(pract$pract_resp.corr)
+  
+  # create trialN
+  pract$trialN<-seq(1:nrow(pract))
+  
+  # subset
+  df<-select(pract, participant,  trialN, trial_cond, pract_resp.corr,cumAcc)
+  
+  # rename accuracy
+  names(df)[4]<-"accuracy"
+  
+  # bind it
+  practAll<-rbind(practAll, df)
+  
+  }
+
+# how many practice trials participants needed to finish?
+print("Number of trials before reaching threshold")
+print(
+practAll %>%
+  group_by(participant) %>%
+  tally()
+)
+
+# now plot
+print(
+ggplot(practAll, aes(x = trialN, y = cumAcc)) +
+  geom_line()+
+  facet_wrap(.~participant)+
+  theme_bw()+
+  ggtitle("learning curve practice trials by participant")
+)
+
+```
