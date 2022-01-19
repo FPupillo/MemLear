@@ -26,9 +26,14 @@ longDatarecog<-vector()
 # Initialize a file for the wide data
 recogData<-vector()
 
+# delete participant 27
+participants<-participants[-which(participants=="sub-27")]
+
 # loop through participants
 for (p in participants){
   
+      tryCatch({
+
   # first, read the encoding file of that participant
   encoding<-read.csv(paste0(p, "/", substr(p, 5,6), "_encoding.csv"))
 
@@ -128,6 +133,23 @@ wideData$participant<-substr(p, 5,6)
 
 recogData<-rbind(recogData, wideData)
 
+#####
+# now save the file
+# first, clean it
+del.var<-c("pract_resp.keys", "pract_resp.corr", "pract_resp.rt", "trial_cond",
+           "myownaccuracyCORR")
+
+# delelte the variavles
+encoding<-encoding[, !(names(encoding) %in% del.var)]
+
+# save it
+write.csv(encoding,
+          paste0("/home/francesco/PowerFolders/MemLear/2_Analysis_Folder/all_file_encoding/",
+                 substr(p, 5, 6), "_encoding.csv")
+)
+
+error= function(e) {print(paste("problem with participant", p))}
+  })
   }
 
 # delete row names from the dataframe

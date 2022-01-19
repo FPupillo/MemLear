@@ -7,7 +7,7 @@ Rscript helper_functions/screen_data.R
 # finally rename the files so that the first participants are "01" rather than "0" and copy to the "data_files" folder
 Rscript helper_functions/renameFiles.R
 
-Rscript helper_functions/cleanFiles.R
+Rscript helper_functions/cleanData.R
 
 # Run the analysis scripts
 #Rscript -e "rmarkdown::render('analysis_files/01.analysis_day1.Rmd')" 
