@@ -59,6 +59,14 @@ practAll %>%
   tally()
 )
 
+# extract min and max
+df<-practAll %>%
+  group_by(participant) %>%
+  tally()
+
+print("summary of the number of practice trials by participant")
+summary(df$n)
+
 # now plot
 print(
 ggplot(practAll, aes(x = trialN, y = cumAcc)) +
