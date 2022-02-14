@@ -35,11 +35,11 @@ for (p in participants){
       
 }
 
-# now analyse the results
-# render the Rmd file
-for (p in participants){
-rmarkdown::render('analysis_part1.Rmd', params = list(ID = p), output_dir = 
-                    paste0("clean_data/sub-", p))
-}
+# # now analyse the results
+# # render the Rmd file
+# for (p in participants){
+# rmarkdown::render('analysis_part1.Rmd', params = list(ID = p), output_dir = 
+#                     paste0("clean_data/sub-", p))
+# }
 
 # do the group analysis

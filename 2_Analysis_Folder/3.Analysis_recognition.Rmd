@@ -45,6 +45,7 @@ for (p in participants){
 
   # convert the facotrs into characters
   encoding$img<-as.character(encoding$img)
+  
   recog$images<-as.character(recog$images)
   
   # check the images in recog (old) that are in encoding
@@ -109,11 +110,14 @@ wideData<-cbind(wideData, indices)
 # PR
 wideData$hitMinFA<-wideData$HITrate-wideData$FArate
 
-# attach accuracy in the encoding file
+# attach accuracy and confidence ratings in the encoding file
 encoding$recogAcc<-NA
+encoding$confidence<-NA
 for (n in 1:nrow(encoding)){
   if (length(recog$acc[recog$images==encoding$img[n]])!=0){
   encoding$recogAcc[n]<-recog$acc[recog$images==encoding$img[n]]
+  encoding$confidence[n]<-recog$conf_resp.keys[recog$images==encoding$img[n]]
+
   }
 }
 

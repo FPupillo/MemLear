@@ -38,7 +38,7 @@ for (f in files){
               "right_categ" ,"trial_cond"    ,             
                "corr_ans" , "corr_ans_num"   ,            
              "type" , "img"  ,"task_response.keys"      ,   
-     "task_response.corr" ,   "task_response.rt"     , "condition"      )
+     "task_response.corr" ,   "task_response.rt"      ,  "condition"      )
       
       file<- select(file,all_of(VoI ))
       
