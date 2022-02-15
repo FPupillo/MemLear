@@ -15,7 +15,7 @@ library(gplots)
 ```
 
 
-```{r message=FALSE, warning=FALSE, include=FALSE}
+```{r, message=FALSE, warning=FALSE, include=FALSE}
 # get participants number
 setwd("clean_data")
 
@@ -110,6 +110,7 @@ wideData<-cbind(wideData, indices)
 # PR
 wideData$hitMinFA<-wideData$HITrate-wideData$FArate
 
+print("here")
 # attach accuracy and confidence ratings in the encoding file
 encoding$recogAcc<-NA
 encoding$confidence<-NA
@@ -149,9 +150,11 @@ encoding<-encoding[, !(names(encoding) %in% del.var)]
 # include the trialN
 encoding$trialN<-seq(1:nrow(encoding))
 
+
+
 # save it
 write.csv(encoding,
-          paste0("/users/francesco/PowerFolders/MemLear/2_Analysis_Folder/all_file_encoding/",
+          paste0("/home/francesco/PowerFolders/MemLear/2_Analysis_Folder/all_file_encoding/",
                  substr(p, 5, 6), "_encoding.csv")
 )
 

@@ -40,7 +40,10 @@ data.agg<-data %>%
   summarise(recog.acc = mean(recogAcc), 
             encoding.acc = mean(task_response.corr))
   
-
+data.agg<-data %>%
+  group_by(participant, condition, type) %>%
+  summarise(recog.acc = mean(recogAcc), 
+            encoding.acc = mean(task_response.corr))
 # exlcude participants due to problems with lists 
 part.list.exc<-c(12, 13, 21)
 
