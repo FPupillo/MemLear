@@ -1,0 +1,17 @@
+Codebook
+Codebook for the task variables
+
+-character: the character presented in the currenct trial
+- left_categ: name of the category presented in the far left side of the screen in the current trial
+- centleft_categ: name of the category presnted in the center/left side of the screen
+- centright_categ: name of the category presented in the center/right of the screen
+- right_categ: name of the category presented in the far right of the screen
+- type: 0 if it is 30 % trial (the object category presented in this trial belongs to the condition where the category is presented 30% of the times), 1 if it is 
+	70% category (category that occurs 70% of the trials)
+- corr_ans: correct answer on that trial (e.g., "food")
+- condition: 0: learning, 1: taught
+- corr_ans_num: number that participants have to press to get a correct answer. 
+- img: image presented
+- respCat: the category participants selected as response
+-cumAcc: cumulative accuracy
+- condition: 0 - learned 1 - known

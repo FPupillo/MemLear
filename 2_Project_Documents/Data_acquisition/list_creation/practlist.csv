@@ -1,0 +1,81 @@
+char,left_categ,centleft_categ,centright_categ,right_categ,trial_cond,corr_ans,corr_ans_num,image
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,1,Food,3,stimuli/objects/chocolatecroissant.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,0,Clothing,3,stimuli/objects/beret01.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,1,Gamestoy & entertainment,2,stimuli/objects/interlockingbuildingblock03b.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,0,Gamestoy & entertainment,2,stimuli/objects/airhockeytable.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,1,Food,2,stimuli/objects/icecreamcone01a.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,1,Gamestoy & entertainment,1,stimuli/objects/stuffedanimal02b.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Clothing.png,1,Food,2,stimuli/objects/apple07.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,1,Gamestoy & entertainment,3,stimuli/objects/number3.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,0,Vehicle,4,stimuli/objects/freighttruck.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,1,Food,4,stimuli/objects/mango01.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,1,Gamestoy & entertainment,4,stimuli/objects/8ball.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,1,Gamestoy & entertainment,3,stimuli/objects/chessboard.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,1,Food,1,stimuli/objects/frenchfries.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,1,Gamestoy & entertainment,4,stimuli/objects/foosballtable.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,0,Clothing,2,stimuli/objects/hikingshoe01.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,1,Gamestoy & entertainment,4,stimuli/objects/sandbagthrowgame.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,1,Food,2,stimuli/objects/makiroll.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,1,Food,2,stimuli/objects/bun.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,0,Vehicle,3,stimuli/objects/mailtruck.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,1,Gamestoy & entertainment,1,stimuli/objects/toysoldier01b.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Vehicle.png,1,Food,3,stimuli/objects/relish.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,1,Gamestoy & entertainment,2,stimuli/objects/sandshovel02a.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Clothing.png,1,Gamestoy & entertainment,2,stimuli/objects/toydinosaur.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Food.png,1,Food,4,stimuli/objects/orange.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,0,Food,3,stimuli/objects/apricot.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Food.png,1,Gamestoy & entertainment,1,stimuli/objects/dice05a.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Food.png,0,Clothing,2,stimuli/objects/moccasin.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,1,Food,1,stimuli/objects/broccoli01a.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,0,Vehicle,3,stimuli/objects/wheel04.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,1,Food,1,stimuli/objects/corn02.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Vehicle.png,1,Gamestoy & entertainment,2,stimuli/objects/pokerchips.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,0,Clothing,1,stimuli/objects/tshirt.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Clothing.png,1,Food,3,stimuli/objects/donut.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,1,Food,3,stimuli/objects/croissant01.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,1,Gamestoy & entertainment,2,stimuli/objects/pooltable.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,0,Food,1,stimuli/objects/tortilla.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Food.png,1,Gamestoy & entertainment,1,stimuli/objects/chessknight03a.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Vehicle.png,1,Food,3,stimuli/objects/granolabar01.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,0,Vehicle,1,stimuli/objects/toycar04.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,1,Food,1,stimuli/objects/sausage.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,1,Food,4,stimuli/objects/watermelon01.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,1,Food,4,stimuli/objects/raisin.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Food.png,1,Food,4,stimuli/objects/pear01.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,1,Gamestoy & entertainment,1,stimuli/objects/ball02.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Clothing.png,stimuli/Vehicle.png,1,Food,2,stimuli/objects/almond.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Clothing.png,0,Vehicle,1,stimuli/objects/steamroller.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Food.png,1,Gamestoy & entertainment,1,stimuli/objects/kidpicnictable.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,1,Food,1,stimuli/objects/cherrytomato01.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,1,Gamestoy & entertainment,4,stimuli/objects/playingcard.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,0,Clothing,3,stimuli/objects/slipper01b.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,1,Food,3,stimuli/objects/kiwi01a.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,0,Clothing,4,stimuli/objects/flipflop01b.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,0,Gamestoy & entertainment,4,stimuli/objects/rockinghorse.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,1,Gamestoy & entertainment,3,stimuli/objects/bridgestick.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,1,Food,4,stimuli/objects/bagel01.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,0,Food,4,stimuli/objects/macaroni01.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,0,Gamestoy & entertainment,4,stimuli/objects/mrpotatohead.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,1,Gamestoy & entertainment,3,stimuli/objects/puppettheatre.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Vehicle.png,1,Gamestoy & entertainment,2,stimuli/objects/rubikcube.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,1,Gamestoy & entertainment,2,stimuli/objects/puzzlepiece.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Clothing.png,0,Vehicle,1,stimuli/objects/rearviewmirror.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,0,Vehicle,4,stimuli/objects/cherrypicker.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Food.png,1,Food,4,stimuli/objects/walnut01c.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,1,Food,2,stimuli/objects/penne.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,1,Gamestoy & entertainment,3,stimuli/objects/highstrikergame.jpg
+stimuli/m_red.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,0,Clothing,2,stimuli/objects/cap03.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,1,Gamestoy & entertainment,4,stimuli/objects/toytractor01b.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,1,Food,1,stimuli/objects/casabamelon.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,stimuli/Vehicle.png,stimuli/Clothing.png,1,Gamestoy & entertainment,2,stimuli/objects/toyanimal03.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Food.png,0,Food,4,stimuli/objects/bluecheese.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,0,Gamestoy & entertainment,3,stimuli/objects/skippingrope.jpg
+stimuli/m_red.jpg,stimuli/Food.png,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,1,Food,1,stimuli/objects/stringbean01.jpg
+stimuli/m_blue.jpg,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,1,Gamestoy & entertainment,4,stimuli/objects/dartboard.jpg
+stimuli/m_red.jpg,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,stimuli/Clothing.png,stimuli/Food.png,0,Vehicle,1,stimuli/objects/jetski.jpg
+stimuli/m_blue.jpg,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Clothing.png,stimuli/Gamestoy & entertainment.png,1,Gamestoy & entertainment,4,stimuli/objects/paperairplane.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Clothing.png,stimuli/Vehicle.png,1,Gamestoy & entertainment,1,stimuli/objects/pacifier02d.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Vehicle.png,stimuli/Food.png,stimuli/Gamestoy & entertainment.png,1,Food,3,stimuli/objects/salsa.jpg
+stimuli/m_blue.jpg,stimuli/Gamestoy & entertainment.png,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Clothing.png,1,Gamestoy & entertainment,1,stimuli/objects/bubbleblower.jpg
+stimuli/m_blue.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,0,Clothing,1,stimuli/objects/shirt02.jpg
+stimuli/m_red.jpg,stimuli/Clothing.png,stimuli/Food.png,stimuli/Vehicle.png,stimuli/Gamestoy & entertainment.png,1,Food,2,stimuli/objects/englishcucumber.jpg

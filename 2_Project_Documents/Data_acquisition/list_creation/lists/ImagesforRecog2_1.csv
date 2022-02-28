@@ -1,0 +1,91 @@
+images,modal_categ,type,corr_ans,order
+stimuli/objects/bowrake.jpg,Hand labour tool & accessory,old,left,1
+stimuli/objects/gps.jpg,Electronic device & accessory,new,right,2
+stimuli/objects/toyhardhat.jpg,Hand labour tool & accessory,new,right,3
+stimuli/objects/golfbag.jpg,Outdoor activity & sport item,old,left,4
+stimuli/objects/cellphone.jpg,Electronic device & accessory,old,left,5
+stimuli/objects/jumpercables.jpg,Hand labour tool & accessory,old,left,6
+stimuli/objects/kite.jpg,Outdoor activity & sport item,new,right,7
+stimuli/objects/wirestripper.jpg,Hand labour tool & accessory,old,left,8
+stimuli/objects/walkman.jpg,Electronic device & accessory,old,left,9
+stimuli/objects/ethernetcable02.jpg,Electronic device & accessory,new,right,10
+stimuli/objects/paintroller01.jpg,Hand labour tool & accessory,new,right,11
+stimuli/objects/drill01b.jpg,Hand labour tool & accessory,new,right,12
+stimuli/objects/toolbox02.jpg,Hand labour tool & accessory,new,right,13
+stimuli/objects/solderingwire.jpg,Hand labour tool & accessory,old,left,14
+stimuli/objects/binoculars01b.jpg,Outdoor activity & sport item,old,left,15
+stimuli/objects/volleyball.jpg,Outdoor activity & sport item,old,left,16
+stimuli/objects/baseballglove.jpg,Outdoor activity & sport item,new,right,17
+stimuli/objects/poolnet.jpg,Outdoor activity & sport item,new,right,18
+stimuli/objects/filmnegative.jpg,Electronic device & accessory,new,right,19
+stimuli/objects/propanetank01.jpg,Outdoor activity & sport item,old,left,20
+stimuli/objects/boogieboard.jpg,Outdoor activity & sport item,old,left,21
+stimuli/objects/alarmsystem.jpg,Electronic device & accessory,old,left,22
+stimuli/objects/painttray.jpg,Hand labour tool & accessory,old,left,23
+stimuli/objects/reflector.jpg,Outdoor activity & sport item,old,left,24
+stimuli/objects/lawnmower.jpg,Hand labour tool & accessory,new,right,25
+stimuli/objects/bungeecord02.jpg,Hand labour tool & accessory,old,left,26
+stimuli/objects/hockeygoalieglove.jpg,Outdoor activity & sport item,old,left,27
+stimuli/objects/mallet01b.jpg,Hand labour tool & accessory,old,left,28
+stimuli/objects/file.jpg,Hand labour tool & accessory,old,left,29
+stimuli/objects/ellipticalmachine.jpg,Outdoor activity & sport item,new,right,30
+stimuli/objects/bicycle.jpg,Outdoor activity & sport item,old,left,31
+stimuli/objects/monitor.jpg,Electronic device & accessory,old,left,32
+stimuli/objects/diaperbag.jpg,Outdoor activity & sport item,new,right,33
+stimuli/objects/exercisemachine.jpg,Outdoor activity & sport item,old,left,34
+stimuli/objects/squeegee01b.jpg,Hand labour tool & accessory,old,left,35
+stimuli/objects/hedgetrimmer.jpg,Hand labour tool & accessory,new,right,36
+stimuli/objects/battery02b.jpg,Electronic device & accessory,new,right,37
+stimuli/objects/shopvac.jpg,Hand labour tool & accessory,old,left,38
+stimuli/objects/mug01.jpg,Kitchen & utensil,new,right,39
+stimuli/objects/weight01.jpg,Outdoor activity & sport item,old,left,40
+stimuli/objects/staplegun.jpg,Hand labour tool & accessory,old,left,41
+stimuli/objects/leafblower01.jpg,Hand labour tool & accessory,old,left,42
+stimuli/objects/videocamera01a.jpg,Electronic device & accessory,old,left,43
+stimuli/objects/flashlight02b.jpg,Hand labour tool & accessory,old,left,44
+stimuli/objects/skipole.jpg,Outdoor activity & sport item,old,left,45
+stimuli/objects/gavel.jpg,Hand labour tool & accessory,old,left,46
+stimuli/objects/football.jpg,Outdoor activity & sport item,new,right,47
+stimuli/objects/hedgeshears.jpg,Hand labour tool & accessory,old,left,48
+stimuli/objects/pliers02b.jpg,Hand labour tool & accessory,old,left,49
+stimuli/objects/nailgun.jpg,Hand labour tool & accessory,old,left,50
+stimuli/objects/cclamp.jpg,Hand labour tool & accessory,old,left,51
+stimuli/objects/securitycamera.jpg,Electronic device & accessory,old,left,52
+stimuli/objects/grater01a.jpg,Kitchen & utensil,old,left,53
+stimuli/objects/patioumbrella.jpg,Outdoor activity & sport item,new,right,54
+stimuli/objects/rope03.jpg,Hand labour tool & accessory,new,right,55
+stimuli/objects/bikepump01.jpg,Outdoor activity & sport item,old,left,56
+stimuli/objects/jackhammer.jpg,Hand labour tool & accessory,old,left,57
+stimuli/objects/canoepaddle02.jpg,Outdoor activity & sport item,new,right,58
+stimuli/objects/anchor.jpg,Outdoor activity & sport item,old,left,59
+stimuli/objects/needlenosepliers01.jpg,Hand labour tool & accessory,new,right,60
+stimuli/objects/remotecontrol04.jpg,Electronic device & accessory,new,right,61
+stimuli/objects/swissarmyknife01a.jpg,Hand labour tool & accessory,new,right,62
+stimuli/objects/tennisball01b.jpg,Outdoor activity & sport item,old,left,63
+stimuli/objects/caulking.jpg,Hand labour tool & accessory,old,left,64
+stimuli/objects/snowboard.jpg,Outdoor activity & sport item,old,left,65
+stimuli/objects/punchingball.jpg,Outdoor activity & sport item,old,left,66
+stimuli/objects/exercisebench.jpg,Outdoor activity & sport item,old,left,67
+stimuli/objects/avcable.jpg,Electronic device & accessory,old,left,68
+stimuli/objects/snowbrush.jpg,Hand labour tool & accessory,new,right,69
+stimuli/objects/icebucket.jpg,Kitchen & utensil,old,left,70
+stimuli/objects/loppingshears.jpg,Hand labour tool & accessory,old,left,71
+stimuli/objects/bikewheel.jpg,Outdoor activity & sport item,old,left,72
+stimuli/objects/rollerblade.jpg,Outdoor activity & sport item,new,right,73
+stimuli/objects/spatula03.jpg,Kitchen & utensil,new,right,74
+stimuli/objects/shinpad.jpg,Outdoor activity & sport item,new,right,75
+stimuli/objects/teapot.jpg,Kitchen & utensil,old,left,76
+stimuli/objects/blender.jpg,Kitchen & utensil,old,left,77
+stimuli/objects/skigoggles01.jpg,Outdoor activity & sport item,old,left,78
+stimuli/objects/tent.jpg,Outdoor activity & sport item,new,right,79
+stimuli/objects/fonduefork01.jpg,Kitchen & utensil,old,left,80
+stimuli/objects/toyhockeystick01.jpg,Outdoor activity & sport item,old,left,81
+stimuli/objects/charcoalbarbecue.jpg,Outdoor activity & sport item,old,left,82
+stimuli/objects/baseball01a.jpg,Outdoor activity & sport item,old,left,83
+stimuli/objects/cheeseknife01.jpg,Hand labour tool & accessory,old,left,84
+stimuli/objects/lifejacket.jpg,Outdoor activity & sport item,new,right,85
+stimuli/objects/waterbottleholder.jpg,Outdoor activity & sport item,new,right,86
+stimuli/objects/sledgehammer.jpg,Hand labour tool & accessory,old,left,87
+stimuli/objects/floodlight.jpg,Hand labour tool & accessory,new,right,88
+stimuli/objects/skihelmet01.jpg,Outdoor activity & sport item,new,right,89
+stimuli/objects/gardenshears01a.jpg,Hand labour tool & accessory,old,left,90

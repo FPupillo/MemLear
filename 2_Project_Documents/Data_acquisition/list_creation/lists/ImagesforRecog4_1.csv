@@ -1,0 +1,91 @@
+images,modal_categ,type,corr_ans,order
+stimuli/objects/ipod.jpg,Electronic device & accessory,old,left,1
+stimuli/objects/fork03c.jpg,Kitchen & utensil,old,left,2
+stimuli/objects/martiniglass01b.jpg,Kitchen & utensil,old,left,3
+stimuli/objects/charcoalbarbecue.jpg,Outdoor activity & sport item,old,left,4
+stimuli/objects/fanheater.jpg,Electronic device & accessory,old,left,5
+stimuli/objects/tablesaw.jpg,Hand labour tool & accessory,old,left,6
+stimuli/objects/stovetop.jpg,Kitchen & utensil,new,right,7
+stimuli/objects/expansioncard.jpg,Electronic device & accessory,old,left,8
+stimuli/objects/cameracase01a.jpg,Electronic device & accessory,old,left,9
+stimuli/objects/aluminiumfoil.jpg,Kitchen & utensil,new,right,10
+stimuli/objects/adjustablewrench01b.jpg,Hand labour tool & accessory,old,left,11
+stimuli/objects/usbcable01a.jpg,Electronic device & accessory,new,right,12
+stimuli/objects/fanblades.jpg,Electronic device & accessory,new,right,13
+stimuli/objects/cakeplatter.jpg,Kitchen & utensil,old,left,14
+stimuli/objects/pastaspoon.jpg,Kitchen & utensil,old,left,15
+stimuli/objects/spicerack.jpg,Kitchen & utensil,old,left,16
+stimuli/objects/knifesharpener.jpg,Hand labour tool & accessory,old,left,17
+stimuli/objects/ethernetcable02.jpg,Electronic device & accessory,new,right,18
+stimuli/objects/soundmixer.jpg,Electronic device & accessory,old,left,19
+stimuli/objects/fan.jpg,Electronic device & accessory,new,right,20
+stimuli/objects/whisk.jpg,Kitchen & utensil,old,left,21
+stimuli/objects/avcable.jpg,Electronic device & accessory,old,left,22
+stimuli/objects/outletadapter.jpg,Electronic device & accessory,new,right,23
+stimuli/objects/dishrack.jpg,Kitchen & utensil,old,left,24
+stimuli/objects/fuse.jpg,Electronic device & accessory,new,right,25
+stimuli/objects/faxmachine.jpg,Electronic device & accessory,old,left,26
+stimuli/objects/nutcracker01.jpg,Kitchen & utensil,new,right,27
+stimuli/objects/surfboard.jpg,Outdoor activity & sport item,old,left,28
+stimuli/objects/crocodileclips.jpg,Electronic device & accessory,old,left,29
+stimuli/objects/walkietalkie.jpg,Electronic device & accessory,old,left,30
+stimuli/objects/cleaver01.jpg,Kitchen & utensil,old,left,31
+stimuli/objects/filmnegative.jpg,Electronic device & accessory,old,left,32
+stimuli/objects/thermos.jpg,Kitchen & utensil,new,right,33
+stimuli/objects/powercable.jpg,Electronic device & accessory,old,left,34
+stimuli/objects/knife03.jpg,Kitchen & utensil,old,left,35
+stimuli/objects/fryingpan02a.jpg,Kitchen & utensil,old,left,36
+stimuli/objects/microphone01.jpg,Electronic device & accessory,new,right,37
+stimuli/objects/electricoutlet.jpg,Electronic device & accessory,old,left,38
+stimuli/objects/caulking.jpg,Hand labour tool & accessory,old,left,39
+stimuli/objects/screwdriver04b.jpg,Hand labour tool & accessory,new,right,40
+stimuli/objects/beermug01a.jpg,Kitchen & utensil,old,left,41
+stimuli/objects/beachumbrella01.jpg,Outdoor activity & sport item,old,left,42
+stimuli/objects/microwave.jpg,Kitchen & utensil,new,right,43
+stimuli/objects/umbrella04.jpg,Outdoor activity & sport item,old,left,44
+stimuli/objects/lightbulb01.jpg,Electronic device & accessory,old,left,45
+stimuli/objects/studiolight.jpg,Electronic device & accessory,new,right,46
+stimuli/objects/footballhelmet.jpg,Outdoor activity & sport item,new,right,47
+stimuli/objects/jug.jpg,Kitchen & utensil,new,right,48
+stimuli/objects/toasteroven.jpg,Kitchen & utensil,old,left,49
+stimuli/objects/usbkey.jpg,Electronic device & accessory,old,left,50
+stimuli/objects/hockeygoaliemask.jpg,Outdoor activity & sport item,new,right,51
+stimuli/objects/photocopier.jpg,Electronic device & accessory,old,left,52
+stimuli/objects/coffeemaker.jpg,Kitchen & utensil,old,left,53
+stimuli/objects/tripod01.jpg,Electronic device & accessory,new,right,54
+stimuli/objects/lectern01.jpg,Electronic device & accessory,old,left,55
+stimuli/objects/fonduefork01.jpg,Kitchen & utensil,old,left,56
+stimuli/objects/chocolatefonduedish.jpg,Kitchen & utensil,old,left,57
+stimuli/objects/spatula04.jpg,Kitchen & utensil,old,left,58
+stimuli/objects/servingspoon01.jpg,Kitchen & utensil,old,left,59
+stimuli/objects/securitycamera.jpg,Electronic device & accessory,old,left,60
+stimuli/objects/payphone.jpg,Electronic device & accessory,old,left,61
+stimuli/objects/cork02.jpg,Kitchen & utensil,new,right,62
+stimuli/objects/garlicpress02a.jpg,Kitchen & utensil,new,right,63
+stimuli/objects/peppermill02b.jpg,Kitchen & utensil,old,left,64
+stimuli/objects/telephone01b.jpg,Electronic device & accessory,old,left,65
+stimuli/objects/cuttingpliers02.jpg,Hand labour tool & accessory,old,left,66
+stimuli/objects/coffeemachine.jpg,Electronic device & accessory,old,left,67
+stimuli/objects/foodprocessor.jpg,Kitchen & utensil,new,right,68
+stimuli/objects/bowl02a.jpg,Kitchen & utensil,old,left,69
+stimuli/objects/scanner.jpg,Electronic device & accessory,old,left,70
+stimuli/objects/heatpump.jpg,Electronic device & accessory,old,left,71
+stimuli/objects/contactlens.jpg,Kitchen & utensil,new,right,72
+stimuli/objects/cellphone.jpg,Electronic device & accessory,new,right,73
+stimuli/objects/djmixer02.jpg,Electronic device & accessory,old,left,74
+stimuli/objects/speaker04.jpg,Electronic device & accessory,new,right,75
+stimuli/objects/shotglass.jpg,Kitchen & utensil,old,left,76
+stimuli/objects/blender.jpg,Kitchen & utensil,new,right,77
+stimuli/objects/alarmclock01.jpg,Electronic device & accessory,new,right,78
+stimuli/objects/wateringcan.jpg,Hand labour tool & accessory,old,left,79
+stimuli/objects/espressomachine.jpg,Kitchen & utensil,new,right,80
+stimuli/objects/ladder.jpg,Hand labour tool & accessory,new,right,81
+stimuli/objects/toyhockeystick01.jpg,Outdoor activity & sport item,old,left,82
+stimuli/objects/hockeygoaliepad.jpg,Outdoor activity & sport item,new,right,83
+stimuli/objects/spotlight.jpg,Electronic device & accessory,old,left,84
+stimuli/objects/podium.jpg,Outdoor activity & sport item,old,left,85
+stimuli/objects/muffintray01.jpg,Kitchen & utensil,old,left,86
+stimuli/objects/floppydisk02a.jpg,Electronic device & accessory,new,right,87
+stimuli/objects/cassettetape01a.jpg,Electronic device & accessory,new,right,88
+stimuli/objects/cuttingboard.jpg,Kitchen & utensil,old,left,89
+stimuli/objects/minifridge.jpg,Kitchen & utensil,old,left,90
